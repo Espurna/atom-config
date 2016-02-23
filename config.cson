@@ -1,0 +1,35 @@
+"*":
+  "autocomplete-python": {}
+  core:
+    autoHideMenuBar: true
+    ignoredNames: [
+      "*.git"
+      "*.pyc"
+    ]
+    packagesWithKeymapsDisabled: [
+      "feedback"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    fontSize: 12
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "d2fe2d61-3fba-4a68-7a38-e8883c0f286b"
+  "highlight-selected": {}
+  linter:
+    showErrorPanel: false
+  "linter-pep8": {}
+  minimap: {}
+  "one-dark-ui": {}
+  pigments: {}
+  "spell-check": {}
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
